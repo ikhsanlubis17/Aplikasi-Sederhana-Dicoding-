@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Peringkat Universitas</string>
+    <string name="universitast_name">Nama Universitas</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+
+    <string-array name="data_name">
+        <item>Universitas Gadjah Mada</item>
+        <item>Universitas Indonesia</item>
+        <item>Institut Teknologi Bandung</item>
+        <item>Institut Pertanian Bogor</item>
+        <item>Universitas Diponegoro</item>
+        <item>Universitas Brawijaya</item>
+        <item>Universitas Padjajaran</item>
+        <item>Universitas Sebelas Maret</item>
+        <item>Universitas Airlangga</item>
+        <item>Universitas Gunadarma</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>UGM yang terletak di Jogja ini memang salah satu kampus kebanggaan Indonesia. Menurut data Webometrics, UGM berada di posisi 414 dunia. Beberapa alumni UGM antara lain Presiden Joko Widodo, Anies Baswedan, mantan Wakil Presiden Boediono, Sri Sultan Hamengkubuwono X, Hotman Paris Hutapea, Adnan Buyung Nasution, Retno Marsudi, Artika Sari Devi dan banyak lagi.</item>
+        <item>Kampus UI yang terkenal dengan jas kuning mahasiswanya ini menempati urutan 532 dunia versi Webometrics. Tak heran, kampus ini selalu dipandang sebagai kampus paling prestisius di Indonesia. Banyak alumni UI yang dikenal memiliki prestasi cemerlang di Indonesia, di antaranya adalah Soe Hok Gie, Sri Mulyani, Agus Martowardojo, Yohanes Surya, Andrea Hirata, Ayu Utami, BJ Habibie dan banyak lagi.</item>
+        <item>Di Webometrics, ITB menempati urutan 622 dunia. Kampus Ganesha ini memiliki ujian masuk yang dikenal luar biasa sulit, namun prestasinya memang sudah mendunia dan tak diragukan lagi. Dua mantan Presiden Indonesia, yaitu Ir. Soekarno dan B.J. Habibie adalah alumni kampus ini.</item>
+        <item>Institut Pertanian Bogor menempati urutan 813 dunia versi data Webometrics. Kampus ini dulunya adalah bagian dari Universitas Indonesia (UI) namun melepaskan diri pada tahun 1963. Beberapa alumninya antara lain adalah mantan presiden Susilo Bambang Yudhoyono, Marissa Haque, Asma Nadia, Marah Roesli dan Yana Julio.</item>
+        <item>Berlokasi di Semarang, kampus Undip meraih ranking 1102 dunia versi Webometrics. Kanpus ini didirikan tahun 1957 an memiliki luas mencapai 2.009.862 m2 dari total tujuh lokasi kampus dan satu lokasi perumahan dinas</item>
+        <item>Kampus Unibraw berlokasi di Malang. Kampus ini menempati urutan 1110 ranking dunia. Kampus ini berdiri tahun 1963 dan telah menjadi perguruan tinggi otonom sejak tahun 2007 silam. Di kampus ini, ada 18 program vokasi, 69 prodi S1, 37 prodi S2, 16 prodi S3 dan 17 program profesi.</item>
+        <item>Kampus Unpad di Bandung juga sukses meraih peringkat 10 besar universitas terbaik di Indonesia versi Webometrics. Kampus Unpad menempati ranking 1210 dunia. Kampus yang dikenal sebagai kampusnya anak gaul Bandung ini banyak memiliki lulusan yang dikenal di Indonesia, antara lain Megawati Soekarno Putri dan Yovie Widianto.</item>
+        <item>Universitas yang berlokasi di Solo ini meraih ranking 1383 dunia versi Webometrics. UNS ternyata memiliki sangat banyak pilihan jurusan lho! Bayangin aja, di kampus ini ada 56 prodi S1, 30 prodi S2, 9 prodi S3 dan 12 prodi profram pendidikan dokter spesialis. WOW!</item>
+        <item>Tidak mengejutkan jika universitas dari Surabaya ini mendapat ranking 1508 dunia. Di Jawa Timur, kampus ini sangat terkenal untuk jurusan kedokterannya. Beberapa alumni Unair antara lain adalah Menteri Perhubungan Ignasius Jonan, Ari Lasso dan presenter gokil John Martin Tumbel yang terkenal melalui program John Pantau.</item>
+        <item>Universitas ini meraih peringkat 1647 dunia. Berlokasi di Depok, kampus ini menyandang motonya: Masa Depan Diraih Saat Ini. Untuk keperluan proses perkuliahan, kelas-kelas di Universitas Gunadarma dilengkapi berbagai fasilitas yang menunjang keperluan mahasiswanya.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/universitasgadjahmada</item>
+        <item>@drawable/universitasindonesia</item>
+        <item>@drawable/institutteknologibandung</item>
+        <item>@drawable/institutpertanianbogor</item>
+        <item>@drawable/universitasdiponegoro</item>
+        <item>@drawable/universitasbrawijaya</item>
+        <item>@drawable/universitaspadjajaran</item>
+        <item>@drawable/universitassebelasmaret</item>
+        <item>@drawable/universitasairlangga</item>
+        <item>@drawable/universitasgunadarma</item>
+    </integer-array>
+
+    <string-array name="data_additional_description">
+        <item>UGM tidak hanya dikenal karena prestasi akademiknya, tetapi juga karena kontribusinya yang signifikan terhadap masyarakat. Dengan berbagai fakultas yang menawarkan program studi berkualitas tinggi, seperti Fakultas Kedokteran, Hukum, dan Ekonomi dan Bisnis, UGM menjadi pilihan utama bagi banyak calon mahasiswa. Reputasi yang kuat dan jaringan alumni yang luas menjadikan UGM sebagai lembaga penting dalam mencetak pemimpin dan profesional berpengaruh di berbagai bidang, termasuk politik, hukum, dan bisnis. Selain itu, UGM aktif dalam penelitian dan pengabdian masyarakat, menjadikannya pusat inovasi dan pengembangan ilmu pengetahuan di Indonesia. Berbagai program penelitian dan kolaborasi dengan industri juga menempatkan UGM di garis depan dalam pengembangan teknologi dan ilmu terapan, memberikan kontribusi nyata bagi kemajuan bangsa.</item>
+        <item>UI bukan hanya unggul dalam aspek akademik tetapi juga memiliki peran penting dalam pengembangan masyarakat dan penelitian. Dengan berbagai fakultas yang menawarkan program studi berkualitas, UI menjadi pilihan utama bagi calon mahasiswa di seluruh Indonesia. Reputasinya yang kuat serta jaringan alumni yang luas berkontribusi pada pembentukan pemimpin dan profesional di berbagai bidang, termasuk pemerintahan, ekonomi, dan seni. Komitmen UI terhadap inovasi dan pengabdian masyarakat menjadikannya sebagai pusat pengembangan ilmu pengetahuan dan teknologi di Indonesia. UI juga aktif dalam program internasional, menjalin kerjasama dengan berbagai universitas terkemuka di dunia, sehingga mahasiswa dapat merasakan pengalaman belajar yang lebih luas dan beragam.</item>
+        <item>ITB tidak hanya unggul dalam aspek akademik, tetapi juga aktif dalam penelitian dan inovasi teknologi. Dengan berbagai program studi yang ditawarkan, ITB menjadi pilihan utama bagi banyak calon mahasiswa yang ingin mengejar karier di bidang teknik, sains, dan teknologi. Komitmen ITB terhadap pengembangan sumber daya manusia dan kontribusinya terhadap masyarakat menjadikannya salah satu perguruan tinggi terkemuka di Indonesia, berperan penting dalam mencetak pemimpin masa depan yang siap bersaing di kancah global. Selain itu, ITB memiliki berbagai pusat penelitian yang mendukung inovasi dan pengembangan teknologi, serta program kewirausahaan yang membantu mahasiswa mengembangkan ide-ide bisnis mereka menjadi kenyataan.</item>
+        <item>Sebagai institusi yang fokus pada pertanian dan ilmu terkait, IPB memiliki berbagai program studi yang berkualitas dan berkomitmen terhadap penelitian serta pengembangan inovasi di bidang pertanian. Dengan fasilitas yang memadai dan tenaga pengajar yang kompeten, IPB berperan penting dalam mencetak lulusan yang siap menghadapi tantangan di sektor pertanian dan lingkungan. Komitmen IPB terhadap keberlanjutan dan kontribusinya terhadap masyarakat menjadikannya sebagai salah satu pilar pendidikan tinggi di Indonesia. IPB juga aktif dalam kolaborasi dengan berbagai organisasi internasional untuk mengatasi isu-isu pertanian dan lingkungan yang mendesak, serta menyediakan pelatihan bagi petani untuk meningkatkan produktivitas dan keberlanjutan usaha pertanian mereka.</item>
+        <item>Kampus utama Undip terletak di Tembalang, yang menjadi pusat kegiatan akademik dan administratif. Saat ini, Undip memiliki 11 fakultas dan 2 sekolah, menawarkan beragam disiplin ilmu dari hukum hingga teknik dan kesehatan. Dengan komitmen terhadap penelitian dan pengabdian kepada masyarakat, Undip berperan penting dalam pengembangan sumber daya manusia di Indonesia serta memberikan kontribusi signifikan dalam berbagai bidang. Selain itu, Undip juga aktif dalam program pengabdian masyarakat, di mana mahasiswa terlibat langsung dalam proyek-proyek yang bertujuan untuk meningkatkan kesejahteraan masyarakat sekitar, menjadikan pengalaman belajar mereka lebih bermakna.</item>
+        <item>Sebagai salah satu perguruan tinggi terkemuka di Indonesia, Unibraw berkomitmen untuk menyediakan pendidikan berkualitas dan mendukung penelitian yang relevan dengan kebutuhan masyarakat. Dengan berbagai fakultas yang ada, Unibraw berperan penting dalam mencetak lulusan yang siap menghadapi tantangan di berbagai bidang, serta berkontribusi terhadap pengembangan ilmu pengetahuan dan teknologi di Indonesia. Unibraw juga memiliki berbagai program hibah penelitian dan kerjasama dengan industri, yang memungkinkan mahasiswa dan dosen untuk berkolaborasi dalam proyek inovatif yang memberikan dampak positif bagi masyarakat.</item>
+        <item>Sejak didirikan, Unpad telah berkomitmen untuk menyediakan pendidikan berkualitas tinggi dengan berbagai program studi yang ditawarkan. Kampus ini terus berupaya meningkatkan kualitas akademik dan penelitian, serta berkontribusi terhadap pengembangan masyarakat. Dengan fasilitas yang memadai dan lingkungan belajar yang mendukung, Unpad menjadi pilihan utama bagi banyak calon mahasiswa yang ingin mengejar karier di berbagai bidang. Selain itu, Unpad juga aktif dalam program-program pengabdian masyarakat, di mana mahasiswa dapat menerapkan ilmu yang mereka pelajari untuk membantu masyarakat di sekitar mereka.</item>
+        <item>Sejak didirikan, UNS telah berupaya untuk menjadi salah satu perguruan tinggi terkemuka di Indonesia. Dengan fokus pada penelitian dan pengabdian masyarakat, UNS berkontribusi dalam pengembangan ilmu pengetahuan dan teknologi. Lingkungan akademik yang mendukung dan fasilitas yang memadai menjadikan UNS sebagai pilihan utama bagi calon mahasiswa yang ingin mengejar karier di berbagai bidang. UNS juga mendorong mahasiswa untuk terlibat dalam kegiatan riset dan inovasi, serta menyediakan platform bagi mereka untuk menyalurkan ide-ide kreatif dalam bentuk proyek-proyek nyata yang bermanfaat bagi masyarakat.</item>
+        <item>Tidak mengejutkan jika universitas dari Surabaya ini mendapat ranking 1508 dunia. Di Jawa Timur, kampus ini sangat terkenal untuk jurusan kedokterannya. Beberapa alumni Unair antara lain adalah Menteri Perhubungan Ignasius Jonan, Ari Lasso dan presenter John Martin Tumbel yang terkenal melalui program John Pantau. Unair berkomitmen untuk menyediakan pendidikan berkualitas tinggi dengan fasilitas yang modern dan tenaga pengajar yang berpengalaman. Selain itu, Unair juga aktif dalam penelitian kesehatan dan pengabdian masyarakat, berperan penting dalam meningkatkan kualitas layanan kesehatan di Indonesia.</item>
+        <item>Dengan beragam program studi yang ditawarkan, Universitas Gunadarma memberikan banyak pilihan bagi calon mahasiswa. Fasilitas modern dan lingkungan belajar yang kondusif menjadi daya tarik tersendiri bagi mahasiswa yang ingin mengembangkan potensi mereka. Komitmen universitas ini terhadap pendidikan berkualitas dan inovasi menjadikannya sebagai salah satu perguruan tinggi swasta yang diperhitungkan di Indonesia. Universitas Gunadarma juga aktif dalam kolaborasi dengan industri, memberikan mahasiswa kesempatan untuk terlibat dalam proyek nyata yang bermanfaat bagi pengembangan karier mereka.</item>
+    </string-array>
+</resources>
